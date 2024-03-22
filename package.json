@@ -1,0 +1,19 @@
+{
+  "name": "ramzan-coding",
+  "version": "2.0.0",
+  "description": "this is ramazan night paractics coding",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js" ,
+  "scripts": {
+    "test": " "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
